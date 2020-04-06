@@ -23,7 +23,4 @@ chrome-user-data
 *.swp
 *.swo
 
-# ignore files that end in .pyc
-*.pyc
-# ignore a folder called __pycache__
 __pycache__/
